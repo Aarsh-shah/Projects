@@ -1,0 +1,9 @@
+This file contains 3 games 
+1) Snake
+2) Star-wars/space-invaders
+3) Flappy bird
+
+
+To run any of this install pycharm on your machine and then do the following:
+1) Install whole folder of the game which you want to play
+2) Open the main.py with pycharm and run it
