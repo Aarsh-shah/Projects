@@ -539,8 +539,8 @@ stocks[d].showStocks();
                 System.out.println("_____________________________________________________");
                 System.out.println("THANK YOU FOR DOING BUSINESS WITH US :D");
                 System.out.println("    made by                            ");
-                System.out.println("  =>AARSH SHAH(18BCE001)                    ");
-                System.out.println("  =>ARHAM DOSHI(18BCE017)                    ");
+                System.out.println("  =>AARSH SHAH                    ");
+                System.out.println("  =>ARHAM DOSHI                    ");
 
                    
                    
